@@ -14,14 +14,14 @@ h1{
     background-color: #333333;
     font-size: 28px;
     margin: 0;
+    margin-bottom: 20px;
     text-align: center;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding: 20px 0;
 }
 h2{
     font-size: 24px;
-    margin:0 auto;
 }
+
 .container{
     width: 1024px;
     margin: 0 auto;
